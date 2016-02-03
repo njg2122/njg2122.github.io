@@ -1,6 +1,20 @@
 body {
-	background-color: blue;
+	background-color: white;
 }
-h1, p {
-	color: gold;
+h1 {
+	font-size: 80px;
+	font-weight: 800;
+	text-align: center;
+	color: rgb(100,0,255);
+}
+h2 {
+	font-size: 30px;
+	font-weight: 400;
+	text-align: right;
+	color: rbg(34,103,255);
+}
+p {
+	font-size: 15px;
+	font-weight: 300;
+	text-align: left;
 }
